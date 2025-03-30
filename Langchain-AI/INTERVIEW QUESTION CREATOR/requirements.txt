@@ -12,3 +12,4 @@ python-multipart
 pyPDF2
 faiss-cpu
 python-dotenv
+-e .   # import local packages
