@@ -1,7 +1,7 @@
 langchain
 langchain-community
 langchain-core
-oprnai
+openai
 pypdf
 tiktoken
 aiofiles
@@ -12,4 +12,5 @@ python-multipart
 pyPDF2
 faiss-cpu
 python-dotenv
--e .   # import local packages
+transformers 
+your_groq_client_library
